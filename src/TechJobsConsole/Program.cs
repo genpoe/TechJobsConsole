@@ -136,7 +136,7 @@ namespace TechJobsConsole
             }
             else
             {
-                Console.WriteLine("There are no results in this category.");
+                Console.WriteLine("No results.");
             }
         }
     }
